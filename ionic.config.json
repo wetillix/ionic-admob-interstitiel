@@ -1,5 +1,7 @@
 {
   "name": "IonicAdmobInterstitiel",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
